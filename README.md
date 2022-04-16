@@ -1,3 +1,4 @@
 # First
 Let's play with GIT
-Adding something...
+
+This is my first Github repository containing a basic Blazor Project
